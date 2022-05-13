@@ -29,7 +29,7 @@ driver.get("https://docs.google.com/spreadsheets/d/185BgOcBUFVwdhPivOSH7fV7cyDHn
 
 txt_email = driver.find_element(
     By.XPATH, '/html/body/div[1]/div[1]/div[2]/div/div[2]/div/div/div[2]/div/div[1]/div/form/span/section/div/div/div[1]/div/div[1]/div/div[1]/input')
-txt_email.send_keys("linhupdate6@gmail.com")
+txt_email.send_keys("")  # email here
 
 btn_next = driver.find_element(
     By.XPATH, '//*[@id="identifierNext"]/div/button/span')
@@ -38,7 +38,7 @@ btn_next.click()
 sleep(1)
 txt_pw = driver.find_element(
     By.XPATH, '/html/body/div[1]/div[1]/div[2]/div/div[2]/div/div/div[2]/div/div[1]/div/form/span/section/div/div/div[1]/div[1]/div/div/div/div/div[1]/div/div[1]/input')
-txt_pw.send_keys("1s2heaven@")
+txt_pw.send_keys("")  # password here
 
 btn_next = driver.find_element(
     By.XPATH, '/html/body/div[1]/div[1]/div[2]/div/div[2]/div/div/div[2]/div/div[2]/div/div[1]/div/div/button/span')

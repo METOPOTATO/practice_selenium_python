@@ -1,0 +1,162 @@
+/usr/bin/geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+/usr/bin/geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+1652395190604	geckodriver	INFO	Listening on 127.0.0.1:59833
+1652395190608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45273" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehNxQQK"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652395191183	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehNxQQK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45273/devtools/browser/23b0c386-23d5-444e-85a8-0e859d568e8b
+1652395192037	Marionette	INFO	Listening on port 36765
+Read port: 36765
+1652395192122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652395194091	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://docs.google.com/spreadsheets/d/18Ibfgij8LNV7FuBt4FOmmlBrW7fTNR4qeAiw2qVrH8A/edit?skip_itp2_check%3Dtrue&followup=https://docs.google.com/spreadsheets/d/18Ibfgij8LNV7FuBt4FOmmlBrW7fTNR4qeAiw2qVrH8A/edit?skip_itp2_check%3Dtrue&ltmpl=sheets#gid=0 line 1 > eval line 3751 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://docs.google.com/spreadsheets/d/18Ibfgij8LNV7FuBt4FOmmlBrW7fTNR4qeAiw2qVrH8A/edit?skip_itp2_check%3Dtrue&followup=https://docs.google.com/spreadsheets/d/18Ibfgij8LNV7FuBt4FOmmlBrW7fTNR4qeAiw2qVrH8A/edit?skip_itp2_check%3Dtrue&ltmpl=sheets#gid=0 line 1 > eval line 1305 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652395209151	Marionette	INFO	Stopped listening on port 36765
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1652395312505	geckodriver	INFO	Listening on 127.0.0.1:54571
+1652395312510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7ZYQBy"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652395313074	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7ZYQBy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49991/devtools/browser/a9c9166e-833c-46e7-9bfd-0f0c627c3640
+1652395313910	Marionette	INFO	Listening on port 34039
+Read port: 34039
+1652395313930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?hl=vi&passive=true&continue=https://www.google.com/%3Fgws_rd%3Dssl&ec=GAZAmgQ line 1 > eval line 2707 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?hl=vi&passive=true&continue=https://www.google.com/%3Fgws_rd%3Dssl&ec=GAZAmgQ line 1 > eval line 7393 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?hl=vi&passive=true&continue=https://www.google.com/%3Fgws_rd%3Dssl&ec=GAZAmgQ line 1 > eval line 5161 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y_/l/en_GB/eeIQ46Cso25.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iQMz4/yC/l/vi_VN/k0i0GGaX9NR.js?_nc_x=pd-e9Pb_iA8, line 158: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ieJK4/l/vi_VN/RCXmCMBRiOn2BAOnFbqjMeDqUbMWu6vDoIZeWjRDr6wmSaMBvcJfic58OTIyTW8fm8aiBUltvPr64loDMdDejn6cyjlOlTs4T8Jl0_M475oqg3g68wNcN1SV4TKWRHXHT-AeXY9m53xZ9Npxpnv3oZAFFn-zQP2sDzbswI9BZChgqe-HBUOG4JPC1dD.js?_nc_x=pd-e9Pb_iA8, line 118: unreachable code after return statement
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+1652396081419	geckodriver	INFO	Listening on 127.0.0.1:53163
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 828: TypeError: can't access dead object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iSrM4/yP/l/vi_VN/62TnUt0APeK1pgHpVQJ-kD6RKlX185G_yHM2eh3TuV6FwLcjHlcMFwJX7dPVbUJKIX.js?_nc_x=pd-e9Pb_iA8, line 153: TypeError: can't access dead object
+1652396100041	Marionette	INFO	Stopped listening on port 34039
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652396137470	geckodriver	INFO	Listening on 127.0.0.1:43179
+1652396195832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54647" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOQBAd2"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652396196293	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOQBAd2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54647/devtools/browser/35113cf8-0454-46ba-bedb-dd1a492738a2
+1652396197469	Marionette	INFO	Listening on port 46831
+Read port: 46831
+1652396197544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652396199709	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://docs.google.com/spreadsheets/d/18Ibfgij8LNV7FuBt4FOmmlBrW7fTNR4qeAiw2qVrH8A/edit?skip_itp2_check%3Dtrue&followup=https://docs.google.com/spreadsheets/d/18Ibfgij8LNV7FuBt4FOmmlBrW7fTNR4qeAiw2qVrH8A/edit?skip_itp2_check%3Dtrue&ltmpl=sheets#gid=0 line 1 > eval line 3538 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://docs.google.com/spreadsheets/d/18Ibfgij8LNV7FuBt4FOmmlBrW7fTNR4qeAiw2qVrH8A/edit?skip_itp2_check%3Dtrue&followup=https://docs.google.com/spreadsheets/d/18Ibfgij8LNV7FuBt4FOmmlBrW7fTNR4qeAiw2qVrH8A/edit?skip_itp2_check%3Dtrue&ltmpl=sheets#gid=0 line 1 > eval line 1037 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652396215902	geckodriver	INFO	Listening on 127.0.0.1:33363
+1652396276385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58317" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRj8ZHp"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652396276878	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRj8ZHp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58317/devtools/browser/82363caf-409f-42db-92c1-19c24c6d2f87
+1652396277816	Marionette	INFO	Listening on port 45119
+Read port: 45119
+1652396277897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652396279735	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://docs.google.com/spreadsheets/d/18Ibfgij8LNV7FuBt4FOmmlBrW7fTNR4qeAiw2qVrH8A/edit?skip_itp2_check%3Dtrue&followup=https://docs.google.com/spreadsheets/d/18Ibfgij8LNV7FuBt4FOmmlBrW7fTNR4qeAiw2qVrH8A/edit?skip_itp2_check%3Dtrue&ltmpl=sheets#gid=0 line 1 > eval line 6110 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://docs.google.com/spreadsheets/d/18Ibfgij8LNV7FuBt4FOmmlBrW7fTNR4qeAiw2qVrH8A/edit?skip_itp2_check%3Dtrue&followup=https://docs.google.com/spreadsheets/d/18Ibfgij8LNV7FuBt4FOmmlBrW7fTNR4qeAiw2qVrH8A/edit?skip_itp2_check%3Dtrue&ltmpl=sheets#gid=0 line 1 > eval line 5996 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652396286043	Marionette	INFO	Stopped listening on port 45119
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1652396687335	Marionette	INFO	Stopped listening on port 46831
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
